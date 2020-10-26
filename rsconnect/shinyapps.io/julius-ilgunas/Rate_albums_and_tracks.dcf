@@ -1,0 +1,12 @@
+name: Rate_albums_and_tracks
+title: Rate_albums_and_tracks
+username:
+account: julius-ilgunas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3101007
+bundleId: 3785422
+url: https://julius-ilgunas.shinyapps.io/Rate_albums_and_tracks/
+when: 1603753096.146
+asMultiple: FALSE
+asStatic: FALSE
