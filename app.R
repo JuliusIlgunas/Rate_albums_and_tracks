@@ -12,8 +12,8 @@ library(plotly)
 library(ggimage)
 #devtools::install_github('womeimingzi11/spotifyr')
 
-myclientid <- 'e84d99dc52424232882d7d8ad7425190'
-myclientsecret <- '19c49108a68944b59555f12cac8851c6'
+myclientid <- ''
+myclientsecret <- ''
 
 
 Sys.setenv(SPOTIFY_CLIENT_ID = myclientid)
